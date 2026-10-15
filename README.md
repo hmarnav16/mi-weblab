@@ -237,3 +237,16 @@ La entrega inicial se revisa en local para rutas relativas, fragmentos, recursos
 Proyecto base preparado con asistencia de IA para uso docente en LMSGI. Los diagramas SVG y el favicon se han creado para este proyecto; no se incluyen fotografías o fuentes de terceros. El docente y el alumnado pueden añadir sus nombres a los créditos al adaptar el material, según sus preferencias de publicación.
 
 El código, los textos originales y los SVG de esta entrega se distribuyen bajo [licencia MIT](LICENSE). Las páginas externas conservan sus propias condiciones de uso. Si incorporas nuevos recursos, documenta su autoría, origen y licencia.
+
+## Trabajo realizado
+
+En esta práctica he utilizado Git y GitHub para adaptar el repositorio WebLab a mi propio laboratorio web:
+
+- He clonado el proyecto y he cambiado los remotos para vincularlo a mi cuenta de GitHub.
+- He creado una rama, subido cambios y abierto un Pull Request para fusionarlo en `main`.
+- He añadido páginas nuevas, he cambiado rutas y he probado a renombrar y borrar archivos.
+- He simulado un conflicto en un archivo y lo he solucionado a mano.
+- He probado el comando `git revert` para deshacer un cambio sin borrar el historial de commits.
+- He etiquetado las versiones (`alumno-v1` y `alumno-v2`) y publicado el sitio en GitHub Pages.
+
+**Mi web publicada:** https://hmarnav16.github.io/mi-weblab/
