@@ -1,4 +1,10 @@
-# WebLab — Tu primera web, paso a paso
+# Mi primera web con github
+
+El objetivo de esta práctica es aprender a hacer una página web personalizada y desplegarla con github
+
+Enlace al repositorio: https://github.com/hmarnav16/mi-weblab.git
+
+# WebLab — Mi primera web, paso a paso
 
 **v0.1 · 1.º DAM · Lenguajes de Marcas y Sistemas de Gestión de Información (LMSGI)**
 
